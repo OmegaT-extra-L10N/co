@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Filter settings are currently &lt;b&gt;Project Specific&lt;/b&gt;.&lt;br&gt;Therefore, after you click "OK", the parameters file will be copied to this location:&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T190912Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T190912Z">
+        <seg>À st’ora, e preferenze di filtru sò &lt;b&gt;specifiche à un prughjettu&lt;/b&gt;.&lt;br&gt;Dunque, s’è vo accettate cù « Vai », u schedariu di parametri serà cupiatu in stu locu :&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find</seg>
       </tuv>
       <tuv lang="co">
@@ -178,6 +186,22 @@
       </tuv>
       <tuv lang="co">
         <seg>Vai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Okapi Filter Options</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T190238Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T190238Z">
+        <seg>Ozzioni di filtru Okapi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Okapi XLIFF Filter Options</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T190336Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T190336Z">
+        <seg>Ozzioni di filtru XLIFF Okapi</seg>
       </tuv>
     </tu>
     <tu>
