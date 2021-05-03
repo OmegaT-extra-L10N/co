@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the default filter settings (%s)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T191031Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T191031Z">
+        <seg>Impiegà e preferenze predefinite di filtru (%s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Words:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201120T150236Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190729T165215Z">
