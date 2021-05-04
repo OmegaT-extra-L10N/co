@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Folding</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T133450Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T133450Z">
+        <seg>Piegatura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fuzzy Match</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T110418Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T110418Z">
@@ -834,6 +842,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T110026Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T110026Z">
         <seg>L’attributu versione hè assente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toggle Current Fold</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T133907Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T133907Z">
+        <seg>Attivà o disattivà a piega attuale</seg>
       </tuv>
     </tu>
     <tu>
