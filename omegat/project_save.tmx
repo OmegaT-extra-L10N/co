@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Invalid OMT package, file "omegat.project" is missing.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T111054Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T111054Z">
+        <seg>Pacchettu OMT inaccettevule, u schedariu « omegat.project » hè assente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Is there an open project?</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T103931Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T103931Z">
@@ -314,6 +322,14 @@
       </tuv>
       <tuv lang="co">
         <seg>Vai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT Package file</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T110957Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T110957Z">
+        <seg>Schedariu di pacchettu OMT</seg>
       </tuv>
     </tu>
     <tu>
@@ -454,6 +470,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select location and name of the OMT package</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T110932Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T110932Z">
+        <seg>Selezziunà u locu è u nome di u pacchettu OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the OMT package to import</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T110847Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T110847Z">
+        <seg>Selezziunà u pacchettu OMT à impurtà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show and protect entries with translate='no' (if not set: they are not extracted)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105241Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T103513Z">
@@ -530,6 +562,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171118T173121Z">
         <seg>Insù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Updating current project with OMT package content</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T111202Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T111202Z">
+        <seg>Mudificazione di u prughjettu attuale cù u cuntenutu di u pacchettu OMT</seg>
       </tuv>
     </tu>
     <tu>
