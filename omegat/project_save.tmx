@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Can't Undo</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T135624Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T135624Z">
+        <seg>Ùn si pò disfà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="co" changeid="Patrick" changedate="20140817T182452Z">
@@ -846,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Selects all text in current text document.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T135536Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T135536Z">
+        <seg>Selezziuneghja u testu sanu in u ducumentu attuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Shift+Enter performs a backwards replace</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T132031Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T132031Z">
@@ -1377,6 +1393,26 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T135216Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T135216Z">
         <seg>I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rtextarea/RTextArea.properties</prop>
+      <prop type="id">Action.SelectAll.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>A</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T135422Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T135422Z">
+        <seg>T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rtextarea/RTextArea.properties</prop>
+      <prop type="id">Action.Undo.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>U</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T135614Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T135614Z">
+        <seg>D</seg>
       </tuv>
     </tu>
   </body>
