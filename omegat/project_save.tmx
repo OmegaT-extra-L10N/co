@@ -158,6 +158,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fuzzy Match</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T110418Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T110418Z">
+        <seg>Currispundenza simile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fuzzy Matches Issues</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T110410Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T110410Z">
+        <seg>Penseri di currispundenze simile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>H</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20160415T133813Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20160415T133813Z">
@@ -286,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No element in the file.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T110130Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T110130Z">
+        <seg>Nisunu elementu in u schedariu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OK</seg>
       </tuv>
       <tuv lang="co">
@@ -314,6 +338,22 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105709Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T105703Z">
         <seg>Schedarii OpenXML (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pack and delete project...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T110823Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T110823Z">
+        <seg>Impacchittà è squassà u prughjettu…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pack project as OMT file...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T110802Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T110802Z">
+        <seg>Impacchittà u prughjettu cum’è un schedariu OMT…</seg>
       </tuv>
     </tu>
     <tu>
@@ -386,6 +426,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105723Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T105712Z">
         <seg>Schedarii SDL-XLIFF (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segment beginning with a fuzzy match prefix</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T110506Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T110506Z">
+        <seg>Segmentu principiendu cù un prefissu di currispundenza simile</seg>
       </tuv>
     </tu>
     <tu>
@@ -470,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unpack project from OMT file...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T110732Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T110732Z">
+        <seg>Spacchittà u prughjettu da un schedariu OMT…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Up</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171118T173121Z">
@@ -522,6 +578,30 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105940Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T105940Z">
         <seg>Schedarii XLIFF-2 (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XML files (Okapi - XML Filter)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T110212Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T110212Z">
+        <seg>Schedarii XML (Okapi - Filtru XML)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XML files (Okapi - XML Stream Filter</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T110225Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T110225Z">
+        <seg>Schedarii XML (Okapi - Filtru di flussu XML)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>YAML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T110241Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T110241Z">
+        <seg>Schedarii YAML (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
