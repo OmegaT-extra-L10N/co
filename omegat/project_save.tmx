@@ -86,6 +86,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Delete unpacked OMT Package</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T130131Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T130131Z">
+        <seg>Squassà u pacchettu OMT spacchittatu ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to delete the OMT Package?</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T130056Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T130056Z">
+        <seg>Vulete squassà u pacchettu OMT ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you want to overwrite it with the translation from the package ?</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T111703Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T111703Z">
@@ -382,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OMT package imported.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T130230Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T130230Z">
+        <seg>Pacchettu OMT impurtatu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105028Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T190238Z">
@@ -434,6 +458,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T110802Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T110802Z">
         <seg>Impacchittà u prughjettu cum’è un schedariu OMT…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Packing OMT project...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T130320Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T130320Z">
+        <seg>Pacchittume di u prughjettu OMT…</seg>
       </tuv>
     </tu>
     <tu>
@@ -634,6 +666,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T110732Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T110732Z">
         <seg>Spacchittà u prughjettu da un schedariu OMT…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpacking OMT package...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T130217Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T130217Z">
+        <seg>Spacchittera di u pacchettu OMT…</seg>
       </tuv>
     </tu>
     <tu>
