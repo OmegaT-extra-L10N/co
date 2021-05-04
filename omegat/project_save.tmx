@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy Error</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T103939Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T103939Z">
+        <seg>Sbagliu di copia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cut</seg>
       </tuv>
       <tuv lang="co">
@@ -158,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Is there an open project?</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T103931Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T103931Z">
+        <seg>Ghjè un prughjettu apertu ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>K</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20160423T172915Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20160423T172915Z">
@@ -194,6 +210,30 @@
       </tuv>
       <tuv lang="co">
         <seg>Rispettà Maiuscule è minuscule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Missing Path</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T103713Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T103713Z">
+        <seg>Chjassu assente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Parameters File</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T103757Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T103757Z">
+        <seg>Nisunu schedariu di parametri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Project Folder</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T103830Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T103830Z">
+        <seg>Nisunu cartulare di prughjettu</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,6 +342,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sorry, there was a problem copying the parameters file.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T104414Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T104414Z">
+        <seg>Per disgrazia, un prublema hè accadutu durante a copia di u schedariu di parametri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The parameters file does not exist.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T103812Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T103812Z">
+        <seg>U schedariu di parametri ùn esiste micca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to determine the project folder.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T103910Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T103910Z">
+        <seg>Impussibule di determinà u cartulare di prughjettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Undo</seg>
       </tuv>
       <tuv lang="co">
@@ -338,6 +402,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201120T150236Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190729T165215Z">
         <seg>Parolle :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You must specify a path.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T103730Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T103730Z">
+        <seg>Ci vole à indicà un chjassu.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
