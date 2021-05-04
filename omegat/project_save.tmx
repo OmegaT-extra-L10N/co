@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Include the name of the translation unit in comments</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T103002Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T103002Z">
+        <seg>Include u nome di l’elementu di traduzzione in i cummenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>K</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20160423T172915Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20160423T172915Z">
@@ -258,6 +266,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201001T143509Z">
         <seg>Tuttu selezziunà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show and protect entries with translate='no' (if not set: they are not extracted)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T103513Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T103513Z">
+        <seg>Affissà è prutege l’entrate cù translate='no' (s’è ùn hè micca attivatu : ùn seranu micca estratte)</seg>
       </tuv>
     </tu>
     <tu>
