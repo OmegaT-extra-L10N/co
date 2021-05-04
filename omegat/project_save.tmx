@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No &lt;xliff&gt; element found.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T110059Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T110059Z">
+        <seg>Nisunu elementu &lt;xliff&gt; trovu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Parameters File</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T103757Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T103757Z">
@@ -416,8 +424,8 @@
       <tuv lang="en">
         <seg>TagEditor TTX files (Okapi)</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105758Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T105758Z">
-        <seg>TagEditor TTX files (Okapi)</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105814Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T105758Z">
+        <seg>Schedarii TagEditor TTX (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -426,6 +434,22 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T103812Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T103812Z">
         <seg>U schedariu di parametri ùn esiste micca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The version attribute is missing.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T110026Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T110026Z">
+        <seg>L’attributu versione hè assente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Transifex project files (Okapi)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105922Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T105922Z">
+        <seg>Schedarii di prughjettu Transifex (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -470,10 +494,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Wordfast Pro TXML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105853Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T105853Z">
+        <seg>Schedarii TXML Wordfast Pro (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Words:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201120T150236Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190729T165215Z">
         <seg>Parolle :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF files (Okapi)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105931Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T105924Z">
+        <seg>Schedarii XLIFF (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF-2 files (Okapi)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105940Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T105940Z">
+        <seg>Schedarii XLIFF-2 (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
