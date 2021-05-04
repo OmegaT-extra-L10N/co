@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Direction:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T130804Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T130804Z">
+        <seg>Direzzione :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you want to delete the OMT Package?</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T130056Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T130056Z">
@@ -128,8 +136,8 @@
       <tuv lang="en">
         <seg>Down</seg>
       </tuv>
-      <tuv lang="co">
-        <seg>Ghjò</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T130819Z">
+        <seg>Inghjò</seg>
       </tuv>
     </tu>
     <tu>
@@ -144,8 +152,8 @@
       <tuv lang="en">
         <seg>E</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20180405T181228Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20180405T181228Z">
-        <seg>Mi</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T131021Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20180405T181228Z">
+        <seg>E</seg>
       </tuv>
     </tu>
     <tu>
@@ -558,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regex</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T131007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T131007Z">
+        <seg>Espressione RegEx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace</seg>
       </tuv>
       <tuv lang="co">
@@ -750,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Whole word</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T130902Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T130902Z">
+        <seg>Parolla sana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Wordfast Pro TXML files (Okapi)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105853Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T105853Z">
@@ -762,6 +786,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201120T150236Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190729T165215Z">
         <seg>Parolle :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrap</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T131059Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T131059Z">
+        <seg>Circunvoglie</seg>
       </tuv>
     </tu>
     <tu>
@@ -815,6 +847,16 @@
 <!-- Alternative translations -->
     <tu>
       <prop type="file">RSTAUI/ui/GoToDialog.properties</prop>
+      <prop type="id">Cancel.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T130733Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T130733Z">
+        <seg>A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/GoToDialog.properties</prop>
       <prop type="id">LineNumber.Mnemonic</prop>
       <tuv lang="en">
         <seg>L</seg>
@@ -831,6 +873,46 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T130727Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T130727Z">
         <seg>V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/search/Search.properties</prop>
+      <prop type="id">DownMnemonic</prop>
+      <tuv lang="en">
+        <seg>D</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T130841Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T130841Z">
+        <seg>G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/search/Search.properties</prop>
+      <prop type="id">MatchCaseMnemonic</prop>
+      <tuv lang="en">
+        <seg>M</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T131013Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T131013Z">
+        <seg>R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/search/Search.properties</prop>
+      <prop type="id">UpMnemonic</prop>
+      <tuv lang="en">
+        <seg>U</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T130827Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T130827Z">
+        <seg>S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/search/Search.properties</prop>
+      <prop type="id">WholeWordMnemonic</prop>
+      <tuv lang="en">
+        <seg>W</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T131019Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T131019Z">
+        <seg>P</seg>
       </tuv>
     </tu>
   </body>
