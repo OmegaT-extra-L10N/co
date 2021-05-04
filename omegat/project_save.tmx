@@ -280,8 +280,8 @@
       <tuv lang="en">
         <seg>Protect entries with state='final' (if not set: they can be edited)</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T103624Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T103624Z">
-        <seg>Prutege l’entrate cù state='final' (s’è ùn hè micca attivatu : ponu esse mudificate)</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105256Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T103624Z">
+        <seg>Prutege l’entrate cù state='final' (s’è st’ozzione ùn hè micca attivata : l’entrate ponu esse mudificate)</seg>
       </tuv>
     </tu>
     <tu>
@@ -336,8 +336,8 @@
       <tuv lang="en">
         <seg>Show and protect entries with translate='no' (if not set: they are not extracted)</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T103513Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T103513Z">
-        <seg>Affissà è prutege l’entrate cù translate='no' (s’è ùn hè micca attivatu : ùn seranu micca estratte)</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105241Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T103513Z">
+        <seg>Affissà è prutege l’entrate cù translate='no' (s’è st’ozzione ùn hè micca attivata : l’entrate ùn seranu micca estratte)</seg>
       </tuv>
     </tu>
     <tu>
