@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark all</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T131444Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T131444Z">
+        <seg>Tuttu marcà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Markdown files (Okapi)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105657Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T105657Z">
@@ -586,6 +594,14 @@
       </tuv>
       <tuv lang="co">
         <seg>Rimpiazzà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace All</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T131441Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T131441Z">
+        <seg>Tuttu rimpiazzà</seg>
       </tuv>
     </tu>
     <tu>
@@ -899,8 +915,8 @@
       <tuv lang="en">
         <seg>I</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T131344Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T131344Z">
-        <seg>C</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T131630Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T131344Z">
+        <seg>O</seg>
       </tuv>
     </tu>
     <tu>
@@ -909,8 +925,18 @@
       <tuv lang="en">
         <seg>M</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T131013Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T131013Z">
-        <seg>R</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T131353Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T131013Z">
+        <seg>M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/search/Search.properties</prop>
+      <prop type="id">ReplaceWith.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>P</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T131644Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T131408Z">
+        <seg>I</seg>
       </tuv>
     </tu>
     <tu>
