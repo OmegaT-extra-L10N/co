@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Filter Parameters Files</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T103706Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T103706Z">
+        <seg>Schedariu di parametri di filtru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filter settings are currently &lt;b&gt;Project Specific&lt;/b&gt;.&lt;br&gt;Therefore, after you click "OK", the parameters file will be copied to this location:&lt;br&gt;</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T190912Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T190912Z">
@@ -230,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Protect entries with state='final' (if not set: they can be edited)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T103624Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T103624Z">
+        <seg>Prutege l’entrate cù state='final' (s’è ùn hè micca attivatu : ponu esse mudificate)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>R</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210113T180413Z">
@@ -266,6 +282,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201001T143509Z">
         <seg>Tuttu selezziunà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a Filter Parameters File</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T103653Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T103653Z">
+        <seg>Selezziunà un schedariu di parametri di filtru</seg>
       </tuv>
     </tu>
     <tu>
