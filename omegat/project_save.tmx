@@ -358,10 +358,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OMT Package</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T125934Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T125934Z">
+        <seg>Pacchettu OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OMT Package file</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T110957Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T110957Z">
         <seg>Schedariu di pacchettu OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT Package successfully created.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T125924Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T125924Z">
+        <seg>U pacchettu OMT hè statu creatu bè.</seg>
       </tuv>
     </tu>
     <tu>
@@ -554,6 +570,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105814Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T105758Z">
         <seg>Schedarii TagEditor TTX (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The package has been successfully unpacked.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T130018Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T130018Z">
+        <seg>U pacchettu hè statu spacchittatu bè.</seg>
       </tuv>
     </tu>
     <tu>
