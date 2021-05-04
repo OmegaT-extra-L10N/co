@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Occurrence of "{0}"</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T133006Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T133006Z">
+        <seg>Occurrenza di « {0} »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105028Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T190238Z">
@@ -610,6 +618,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T130654Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T130654Z">
         <seg>Ci vole à scrive un numeru interu trà 1 è</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press 'F2' for focus</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T133335Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T133335Z">
+        <seg>Appughjate nant’à « F2 » per cuncentrà</seg>
       </tuv>
     </tu>
     <tu>
