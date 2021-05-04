@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creating new project from OMT package</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T111426Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T111426Z">
+        <seg>Creazione di u novu prughjettu da u pacchettu OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cut</seg>
       </tuv>
       <tuv lang="co">
