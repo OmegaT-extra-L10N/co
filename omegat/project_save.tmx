@@ -46,6 +46,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Collapse All Comments</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T134433Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T134433Z">
+        <seg>Riduce tutti i cummenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collapse All Folds</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T134312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T134312Z">
+        <seg>Riduce tutte e pieghe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collapses all comment folds.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T134550Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T134550Z">
+        <seg>Riduce tutte e pieghe di cummentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collapses all folds.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T134356Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T134356Z">
+        <seg>Riduce tutte e pieghe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Content Assist Available</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T131826Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T131826Z">
@@ -1217,6 +1249,26 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T131253Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T131106Z">
         <seg>V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rsyntaxtextarea/RSyntaxTextArea.properties</prop>
+      <prop type="id">Action.CollapseAllFolds.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>O</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T134441Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T134324Z">
+        <seg>R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rsyntaxtextarea/RSyntaxTextArea.properties</prop>
+      <prop type="id">Action.CollapseCommentFolds.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T134500Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T134500Z">
+        <seg>C</seg>
       </tuv>
     </tu>
     <tu>
