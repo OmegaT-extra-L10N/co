@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Another package with the same name already exists.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T111845Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T111845Z">
+        <seg>Un altru pacchettu cù u listessu nome esiste dighjà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>C</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210122T142048Z">
@@ -82,6 +90,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T111703Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T111703Z">
         <seg>Vulete rimpiazzalla cù a traduzzione di u pacchettu ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to overwrite this package?</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T111904Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T111904Z">
+        <seg>Vulete rimpiazzà stu pacchettu ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -370,6 +386,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105709Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T105703Z">
         <seg>Schedarii OpenXML (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Overwrite OMT Package</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T125858Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T125858Z">
+        <seg>Rimpiazzà u pacchettu OMT</seg>
       </tuv>
     </tu>
     <tu>
