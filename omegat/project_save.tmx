@@ -38,6 +38,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Characters:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T132201Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T132201Z">
+        <seg>Caratteri :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Content Assist Available</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T131826Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T131826Z">
+        <seg>Assistenza di cuntenutu dispunibule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy</seg>
       </tuv>
       <tuv lang="co" changeid="LF Aligner 4.05" changedate="20140827T133535Z">
@@ -214,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find Prev.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T132013Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T132013Z">
+        <seg>Circà a precedente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find what:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T131125Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T131125Z">
@@ -224,8 +248,8 @@
       <tuv lang="en">
         <seg>Find:</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171015T171932Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171015T171932Z">
-        <seg>Circà :</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T131856Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171015T171932Z">
+        <seg>Circà :</seg>
       </tuv>
     </tu>
     <tu>
@@ -330,6 +354,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T130509Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T130509Z">
         <seg>Numeru di linea :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line terminator:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T132329Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T132329Z">
+        <seg>Fine di linea :</seg>
       </tuv>
     </tu>
     <tu>
@@ -550,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Properties: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T132137Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T132137Z">
+        <seg>Pruprietà : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Protect entries with state='final' (if not set: they can be edited)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105256Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T103624Z">
@@ -614,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T132037Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T132037Z">
+        <seg>Rimpiazzà :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SDL-XLIFF files (Okapi)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105723Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T105712Z">
@@ -658,6 +706,22 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T110847Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T110847Z">
         <seg>Selezziunà u pacchettu OMT à impurtà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shift+Enter performs a backwards replace</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T132031Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T132031Z">
+        <seg>Maiusc+Entrata face un rimpiazzamentu à l’arritrosa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shift+Enter performs a backwards search</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T131945Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T131945Z">
+        <seg>Maiusc+Entrata face una ricerca à l’arritrosa</seg>
       </tuv>
     </tu>
     <tu>
@@ -900,6 +964,36 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="file">RSTAUI/ui/TextFilePropertiesDialog.properties</prop>
+      <prop type="id">LineTerminator.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>L</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T132342Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T132342Z">
+        <seg>F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/TextFilePropertiesDialog.properties</prop>
+      <prop type="id">Path.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>P</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T132155Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T132155Z">
+        <seg>C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/search/Search.properties</prop>
+      <prop type="id">CancelMnemonic</prop>
+      <tuv lang="en">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T131802Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T131802Z">
+        <seg>A</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">RSTAUI/ui/search/Search.properties</prop>
       <prop type="id">DownMnemonic</prop>
       <tuv lang="en">
@@ -907,6 +1001,16 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T130841Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T130841Z">
         <seg>G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/search/Search.properties</prop>
+      <prop type="id">Find.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>F</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T131657Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T131657Z">
+        <seg>C</seg>
       </tuv>
     </tu>
     <tu>
@@ -921,12 +1025,42 @@
     </tu>
     <tu>
       <prop type="file">RSTAUI/ui/search/Search.properties</prop>
+      <prop type="id">MarkAllMnemonic</prop>
+      <tuv lang="en">
+        <seg>K</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T131718Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T131718Z">
+        <seg>U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/search/Search.properties</prop>
       <prop type="id">MatchCaseMnemonic</prop>
       <tuv lang="en">
         <seg>M</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T131353Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T131013Z">
         <seg>M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/search/Search.properties</prop>
+      <prop type="id">Replace.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>R</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T131706Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T131706Z">
+        <seg>R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/search/Search.properties</prop>
+      <prop type="id">ReplaceAll.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>A</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T131712Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T131712Z">
+        <seg>T</seg>
       </tuv>
     </tu>
     <tu>
