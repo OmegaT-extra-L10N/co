@@ -678,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Places text on clipboard at current location in text file.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T135414Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T135414Z">
+        <seg>Copia u testu di u preme’papei à a piazza attuale in u schedariu di testu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please enter an integer between 1 and</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T130654Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T130654Z">
@@ -738,6 +746,22 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T131007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T131007Z">
         <seg>Espressione RegEx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Removes current selection and places it on the clipboard.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T135119Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T135119Z">
+        <seg>Caccia a selezzione attuale è a piazza in u preme’papei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Removes current selection.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T135206Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T135206Z">
+        <seg>Caccia a selezzione attuale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1333,6 +1357,26 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T135015Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T135015Z">
         <seg>T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rtextarea/RTextArea.properties</prop>
+      <prop type="id">Action.Delete.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>D</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T135131Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T135131Z">
+        <seg>S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rtextarea/RTextArea.properties</prop>
+      <prop type="id">Action.Paste.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>P</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T135216Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T135216Z">
+        <seg>I</seg>
       </tuv>
     </tu>
   </body>
