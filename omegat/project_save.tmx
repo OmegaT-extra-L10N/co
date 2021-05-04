@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Deleting project...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T130407Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T130407Z">
+        <seg>Squassatura di u prughjettu…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you want to delete the OMT Package?</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T130056Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T130056Z">
@@ -222,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Goto Line</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T130445Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T130445Z">
+        <seg>Andà à a linea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>H</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20160415T133813Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20160415T133813Z">
@@ -290,6 +306,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210113T180405Z">
         <seg>M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line Number:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T130509Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T130509Z">
+        <seg>Numeru di linea :</seg>
       </tuv>
     </tu>
     <tu>
@@ -406,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OMT project packaged.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T130353Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T130353Z">
+        <seg>Prughjettu OMT impacchittatu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105028Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T190238Z">
@@ -482,6 +514,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201226T141601Z">
         <seg>Chjassu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please enter an integer between 1 and</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T130654Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T130654Z">
+        <seg>Ci vole à scrive un numeru interu trà 1 è</seg>
       </tuv>
     </tu>
     <tu>
@@ -773,5 +813,25 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">RSTAUI/ui/GoToDialog.properties</prop>
+      <prop type="id">LineNumber.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>L</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T130612Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T130612Z">
+        <seg>L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/GoToDialog.properties</prop>
+      <prop type="id">OK.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>O</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T130727Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T130727Z">
+        <seg>V</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
