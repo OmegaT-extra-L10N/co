@@ -200,8 +200,8 @@
       <tuv lang="en">
         <seg>File Size:</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190420T155303Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190420T155303Z">
-        <seg>Dimensione di schedariu :</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T132406Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190420T155303Z">
+        <seg>Dimensione di schedariu :</seg>
       </tuv>
     </tu>
     <tu>
@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Last modified:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T132449Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T132409Z">
+        <seg>Ultima mudificazione :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Line Number:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T130509Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T130509Z">
@@ -362,6 +370,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T132329Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T132329Z">
         <seg>Fine di linea :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T132740Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T132740Z">
+        <seg>Linea : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -410,6 +426,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T103713Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T103713Z">
         <seg>Chjassu assente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Multiple markers at this line:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T132927Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T132927Z">
+        <seg>Marcatori multiplice à sta linea :</seg>
       </tuv>
     </tu>
     <tu>
@@ -506,6 +530,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105040Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T190336Z">
         <seg>Ozzioni di filtru Okapi XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Old Macintosh (\r)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T132503Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T132503Z">
+        <seg>Vechju Macintosh (\r)</seg>
       </tuv>
     </tu>
     <tu>
@@ -742,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>System Default</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T132515Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T132515Z">
+        <seg>Valore predefinitu di u sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TagEditor TTX files (Okapi)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105814Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T105758Z">
@@ -786,6 +826,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105922Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T105922Z">
         <seg>Schedarii di prughjettu Transifex (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UNIX (\n)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T132505Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T132505Z">
+        <seg>UNIX (\n)</seg>
       </tuv>
     </tu>
     <tu>
@@ -858,6 +906,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T130902Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T130902Z">
         <seg>Parolla sana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows (\r\n)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T132508Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T132508Z">
+        <seg>Windows (\r\n)</seg>
       </tuv>
     </tu>
     <tu>
@@ -965,12 +1021,32 @@
     </tu>
     <tu>
       <prop type="file">RSTAUI/ui/TextFilePropertiesDialog.properties</prop>
+      <prop type="id">Cancel.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T132532Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T132532Z">
+        <seg>A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/TextFilePropertiesDialog.properties</prop>
       <prop type="id">LineTerminator.Mnemonic</prop>
       <tuv lang="en">
         <seg>L</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T132342Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T132342Z">
         <seg>F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSTAUI/ui/TextFilePropertiesDialog.properties</prop>
+      <prop type="id">OK.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>O</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T132524Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T132524Z">
+        <seg>V</seg>
       </tuv>
     </tu>
     <tu>
