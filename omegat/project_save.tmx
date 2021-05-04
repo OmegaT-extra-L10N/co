@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Can't Redo</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T135925Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T135925Z">
+        <seg>Ùn si pò rifà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Can't Undo</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T135624Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T135624Z">
@@ -910,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Takes back the last action.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T135907Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T135907Z">
+        <seg>Toglie l’ultima azzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The package has been successfully unpacked.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T130018Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T130018Z">
@@ -1393,6 +1409,16 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T135216Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T135216Z">
         <seg>I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rtextarea/RTextArea.properties</prop>
+      <prop type="id">Action.Redo.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>R</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T135914Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T135914Z">
+        <seg>R</seg>
       </tuv>
     </tu>
     <tu>
