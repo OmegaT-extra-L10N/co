@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copies current selection to the clipboard.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T135005Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T135005Z">
+        <seg>Copia a selezzione attuale in u preme’papei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy</seg>
       </tuv>
       <tuv lang="co" changeid="LF Aligner 4.05" changedate="20140827T133535Z">
@@ -218,6 +226,22 @@
       </tuv>
       <tuv lang="co" changeid="LF Aligner 4.05" changedate="20140827T133535Z">
         <seg>Sbagliu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Expand All Folds</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T134637Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T134637Z">
+        <seg>Spiegà tutte e pieghe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Expands all folds.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T134711Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T134711Z">
+        <seg>Spiega tutte e pieghe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1273,12 +1297,42 @@
     </tu>
     <tu>
       <prop type="file">RSyntaxTextArea/rsyntaxtextarea/RSyntaxTextArea.properties</prop>
+      <prop type="id">Action.ExpandAllFolds.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>E</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T134649Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T134649Z">
+        <seg>S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rsyntaxtextarea/RSyntaxTextArea.properties</prop>
       <prop type="id">Action.ToggleCurrentFold.Mnemonic</prop>
       <tuv lang="en">
         <seg>F</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T133915Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T133915Z">
         <seg>P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rtextarea/RTextArea.properties</prop>
+      <prop type="id">Action.Copy.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T134938Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T134938Z">
+        <seg>C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rtextarea/RTextArea.properties</prop>
+      <prop type="id">Action.Cut.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>T</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T135015Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T135015Z">
+        <seg>T</seg>
       </tuv>
     </tu>
   </body>
