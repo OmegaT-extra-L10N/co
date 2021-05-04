@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Toggles the fold at the caret position.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T134257Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T134257Z">
+        <seg>Attiveghja o disattiveghja a piegatura à a pusizione di u cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Transifex project files (Okapi)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105922Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T105922Z">
@@ -1209,6 +1217,16 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T131253Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T131106Z">
         <seg>V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rsyntaxtextarea/RSyntaxTextArea.properties</prop>
+      <prop type="id">Action.ToggleCurrentFold.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>F</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T133915Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T133915Z">
+        <seg>P</seg>
       </tuv>
     </tu>
   </body>
