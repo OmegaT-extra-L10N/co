@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do you want to overwrite it with the translation from the package ?</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T111703Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T111703Z">
+        <seg>Vulete rimpiazzalla cù a traduzzione di u pacchettu ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Down</seg>
       </tuv>
       <tuv lang="co">
@@ -366,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Overwrite project_save.tmx File</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T111726Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T111726Z">
+        <seg>Rimpiazzà u schedariu project_save.tmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pack and delete project...</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T110823Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T110823Z">
@@ -522,6 +538,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T103812Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T103812Z">
         <seg>U schedariu di parametri ùn esiste micca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project already has an ongoing translation.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T111625Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T111625Z">
+        <seg>U prughjettu hè dighjà una traduzzione in corsu.</seg>
       </tuv>
     </tu>
     <tu>
