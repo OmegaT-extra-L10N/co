@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Doxygen-commented files (Okapi)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105542Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T105542Z">
+        <seg>Schedarii cummentati da Doxygen (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>E</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20180405T181228Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20180405T181228Z">
@@ -158,6 +166,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>HTML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105556Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T105556Z">
+        <seg>Schedarii HTML (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>InDesign IDML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105619Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T105609Z">
+        <seg>Schedarii InDesign IDML (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Include the name of the translation unit in comments</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T103002Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T103002Z">
@@ -170,6 +194,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T103931Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T103931Z">
         <seg>Ghjè un prughjettu apertu ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>JSON files (Okapi)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105632Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T105624Z">
+        <seg>Schedarii JSON (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -202,6 +234,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20160423T172926Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20160423T172926Z">
         <seg>M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Markdown files (Okapi)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105657Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T105657Z">
+        <seg>Schedarii Markdown (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -262,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OpenXML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105709Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T105703Z">
+        <seg>Schedarii OpenXML (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Paste</seg>
       </tuv>
       <tuv lang="co">
@@ -282,6 +330,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105256Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T103624Z">
         <seg>Prutege l’entrate cù state='final' (s’è st’ozzione ùn hè micca attivata : l’entrate ponu esse mudificate)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Qt TS files (Okapi)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105756Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T105744Z">
+        <seg>Schedarii Qt TS (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -318,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SDL-XLIFF files (Okapi)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105723Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T105712Z">
+        <seg>Schedarii SDL-XLIFF (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select All</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201001T143509Z">
@@ -346,6 +410,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T104414Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T104414Z">
         <seg>Per disgrazia, un prublema hè accadutu durante a copia di u schedariu di parametri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TagEditor TTX files (Okapi)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T105758Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T105758Z">
+        <seg>TagEditor TTX files (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
