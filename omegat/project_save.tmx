@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Choose what text to paste from text recently on the clipboard.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T140319Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T140319Z">
+        <seg>Sceglie chì testu da incullà trà quelli messi pocu fà in u preme’papei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Collapse All Comments</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T134433Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T134433Z">
@@ -686,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paste from History</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T140038Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T140038Z">
+        <seg>Incullà da a cronolugia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Path:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201226T141601Z">
@@ -746,6 +762,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210113T180413Z">
         <seg>D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Re-applies the last action undone.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T140008Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T140008Z">
+        <seg>Appieca torna l'ultima azzione disfatta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1369,6 +1393,16 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T133915Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T133915Z">
         <seg>P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rtextarea/RTextArea.properties</prop>
+      <prop type="id">Action.ClipboardHistory.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>H</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T140021Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T140021Z">
+        <seg>O</seg>
       </tuv>
     </tu>
     <tu>
