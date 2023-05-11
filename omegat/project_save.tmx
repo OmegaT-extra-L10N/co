@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -72,8 +72,8 @@
       <tuv lang="en">
         <seg>Clipboard History:</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T140328Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T140328Z">
-        <seg>Crunulugia di u preme’papei :</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230511T171556Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T140328Z">
+        <seg>Cronolugia di u preme’papei :</seg>
       </tuv>
     </tu>
     <tu>
@@ -1066,6 +1066,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T111202Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T111202Z">
         <seg>Mudificazione di u prughjettu attuale cù u cuntenutu di u pacchettu OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use 'name' attribute as segment identifier</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230511T171537Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230511T171537Z">
+        <seg>Impiegà l’attributu « name » cum’è identificazione di segmentu</seg>
       </tuv>
     </tu>
     <tu>
