@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -304,8 +304,8 @@
       <tuv lang="en">
         <seg>Filter settings are currently &lt;b&gt;Project Specific&lt;/b&gt;.&lt;br&gt;Therefore, after you click "OK", the parameters file will be copied to this location:&lt;br&gt;</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T190912Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T190912Z">
-        <seg>À st’ora, e preferenze di filtru sò &lt;b&gt;specifiche à un prughjettu&lt;/b&gt;.&lt;br&gt;Dunque, s’è vo accettate cù « Vai », u schedariu di parametri serà cupiatu in stu locu :&lt;br&gt;</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T174813Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T190912Z">
+        <seg>À st’ora, i parametri di filtru sò &lt;b&gt;specifiche à un prughjettu&lt;/b&gt;.&lt;br&gt;Dunque, s’è vo accettate cù « Vai », u schedariu di parametri serà cupiatu in stu locu :&lt;br&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -776,8 +776,8 @@
       <tuv lang="en">
         <seg>Re-applies the last action undone.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210504T140008Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T140008Z">
-        <seg>Appieca torna l'ultima azzione disfatta.</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T174609Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210504T140008Z">
+        <seg>Appiecheghja torna l’ultima azzione disfatta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1080,8 +1080,8 @@
       <tuv lang="en">
         <seg>Use the default filter settings (%s)</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T191031Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T191031Z">
-        <seg>Impiegà e preferenze predefinite di filtru (%s)</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T174827Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T191031Z">
+        <seg>Impiegà i parametri predefiniti di filtru (%s)</seg>
       </tuv>
     </tu>
     <tu>
